@@ -1,0 +1,20 @@
+<! DOCTYPE html>
+<html>
+<head>
+<title>просто купить</title>
+
+
+
+
+</head>
+<body>
+<hi>Сервис заказов компании Просто купить</hl>
+<div align="center"><P>мой текст</p></div>
+
+
+
+
+
+</body>
+
+</html>
