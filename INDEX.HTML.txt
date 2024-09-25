@@ -2,19 +2,9 @@
 <html>
 <head>
 <title>просто купить</title>
-
-
-
-
 </head>
 <body>
 <hl>Сервис заказов компании Просто купить</hl>
 <div align="center"><p>мой текст</p></div>
-
-
-
-
-
 </body>
-
 </html>
